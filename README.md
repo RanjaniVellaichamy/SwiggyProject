@@ -23,8 +23,13 @@ It suggests restaurants based on user preferences such as city, cuisine, rating,
 📦 restaurant-recommender
 
 ├── cleaned_data.csv       # Cleaned dataset (numerical + categorical)
+
 ├── encoder.pkl            # Saved OneHotEncoder
+
 ├── app.py                 # Streamlit app (main entry point)
+
 ├── preprocessing.py       # Data cleaning + encoding script
+
 ├── requirements.txt       # Dependencies
+
 └── README.md              # Documentation

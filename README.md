@@ -19,7 +19,9 @@ It suggests restaurants based on user preferences such as city, cuisine, rating,
 ✅ Mapping – Recommendations are displayed from the cleaned dataset (human-readable).
 
 📂 Project Structure
+
 📦 restaurant-recommender
+
 ├── cleaned_data.csv       # Cleaned dataset (numerical + categorical)
 ├── encoder.pkl            # Saved OneHotEncoder
 ├── app.py                 # Streamlit app (main entry point)
